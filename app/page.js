@@ -92,7 +92,7 @@ export default function Home() {
       border={'1px solid black'}
       gap={2}
       sx={{
-        background: 'linear-gradient(to right, #EF629F , #EECDA3)',
+        background: 'linear-gradient(to right, #A3B3EB , #FF99AC)',
       }}
     >
       <Modal
